@@ -4,7 +4,7 @@
 	<ProjectInfo>
 		<Path>H:\backup\07_09_2020\Indo_Tex.pro</Path>
 		<IsLibrary>false</IsLibrary>
-		<ChangeDate>2021-08-12T16:15:18</ChangeDate>
+		<ChangeDate>2021-08-14T11:37:08</ChangeDate>
 		<Library>
 			<Name>COMlibV2.lib</Name>
 			<Path>C:\TwinCAT\PLC\LIB\COMlibV2.lib</Path>
@@ -6124,7 +6124,7 @@
 			</ArrayInfo>
 		</DataType>
 		<DataType>
-			<Name Decoration="1020CB6C" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">FB_DbgOutputCtrl</Name>
+			<Name Decoration="1020C651" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">FB_DbgOutputCtrl</Name>
 			<BitSize>115744</BitSize>
 			<SubItem>
 				<Name IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">fbFormat</Name>
@@ -10963,7 +10963,7 @@
 			</FunInfo>
 		</Function>
 		<Function>
-			<Name Decoration="100645E6" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\SysLibTargetVisu.lib">ChangePassword</Name>
+			<Name Decoration="10063D46" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\SysLibTargetVisu.lib">ChangePassword</Name>
 			<FunInfo>
 				<CodeIndex>80</CodeIndex>
 				<ReturnValue>
@@ -10999,7 +10999,7 @@
 			</FunInfo>
 		</Function>
 		<Function>
-			<Name Decoration="1006462A" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\SysLibTargetVisu.lib">ChangeUserLevel</Name>
+			<Name Decoration="10063D8A" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\SysLibTargetVisu.lib">ChangeUserLevel</Name>
 			<FunInfo>
 				<CodeIndex>81</CodeIndex>
 				<ReturnValue>
@@ -13953,7 +13953,7 @@
 			</FunInfo>
 		</Function>
 		<Function>
-			<Name Decoration="10079EE8" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">DATA_TO_HEXSTR</Name>
+			<Name Decoration="10079A3F" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">DATA_TO_HEXSTR</Name>
 			<FunInfo>
 				<CodeIndex>300</CodeIndex>
 				<ReturnValue>
@@ -14820,7 +14820,7 @@
 			</FunInfo>
 		</Function>
 		<Function>
-			<Name Decoration="10151547" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">F_FormatArgToStr</Name>
+			<Name Decoration="101510A6" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">F_FormatArgToStr</Name>
 			<FunInfo>
 				<CodeIndex>330</CodeIndex>
 				<ReturnValue>
@@ -15369,7 +15369,7 @@
 			</FunInfo>
 		</Function>
 		<Function>
-			<Name Decoration="10041BA6" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">F_LTrim</Name>
+			<Name Decoration="10041707" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">F_LTrim</Name>
 			<FunInfo>
 				<CodeIndex>343</CodeIndex>
 				<ReturnValue>
@@ -15469,7 +15469,7 @@
 			</FunInfo>
 		</Function>
 		<Function>
-			<Name Decoration="10025CD7" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">F_STRING</Name>
+			<Name Decoration="10025836" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">F_STRING</Name>
 			<FunInfo>
 				<CodeIndex>348</CodeIndex>
 				<ReturnValue>
@@ -16848,7 +16848,7 @@
 			</FunInfo>
 		</Function>
 		<Function>
-			<Name Decoration="100295F0" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">PMAXSTRING_TO_MAXSTRING</Name>
+			<Name Decoration="1002914D" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcUtilities.lib">PMAXSTRING_TO_MAXSTRING</Name>
 			<FunInfo>
 				<CodeIndex>595</CodeIndex>
 				<ReturnValue>
@@ -19060,7 +19060,7 @@
 			</FunInfo>
 		</Function>
 		<Function>
-			<Name Decoration="100B93AA" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcSystem.lib">F_SplitPathName</Name>
+			<Name Decoration="100B85B5" IsDefinedInLibrary="1" Library="C:\TwinCAT\PLC\LIB\TcSystem.lib">F_SplitPathName</Name>
 			<FunInfo>
 				<CodeIndex>803</CodeIndex>
 				<ReturnValue>
@@ -21121,7 +21121,7 @@
 			</PrgInfo>
 		</Program>
 		<Program>
-			<Name Decoration="10145460" Crc32="2566257106" LastChange="2021-08-12T16:15:18">DATALOG_PRINT</Name>
+			<Name Decoration="10145460" Crc32="0538004527" LastChange="2021-08-14T11:36:47">DATALOG_PRINT</Name>
 			<PrgInfo>
 				<CodeIndex>1163</CodeIndex>
 				<Symbol>
@@ -21183,99 +21183,6 @@
 				</Symbol>
 				<Symbol>
 					<Name>DATALOG_PRINT.TON_Opendly</Name>
-				</Symbol>
-			</PrgInfo>
-		</Program>
-		<Program>
-			<Name Decoration="101D1773" Crc32="1292715236" LastChange="2021-08-12T16:15:18">DATALOG_REPORT</Name>
-			<PrgInfo>
-				<CodeIndex>1164</CodeIndex>
-				<Symbol>
-					<Name>DATALOG_REPORT.R_TRIG_IndoPrint</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.FB_FileOpen_Indo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.FB_FileWrite_Indo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.FB_FileClose_Indo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.FB_FileDelete_Indo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.IndoReport</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.ReportHead1_Indo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.ST1_ProductionData</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.ReportHead2_Indo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.ReportBot1_Indo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.stStation1_ProductionData</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.ReportBot2_Indo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.testbit</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_Indo1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_Indo2</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_Indo3</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_Indo4</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.sOldDay</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_Newdaydly</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_NEWDAY</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_NewdaydlyError</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.WriteError</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_writedly</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.OpenError</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.TON_Opendly</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.BarcodeNo</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.BarCode1</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.EmptyConeWtRep</Name>
-				</Symbol>
-				<Symbol>
-					<Name>DATALOG_REPORT.EmptyConeWtRep1</Name>
 				</Symbol>
 			</PrgInfo>
 		</Program>
@@ -23130,6 +23037,93 @@
 				<CodeIndex>1236</CodeIndex>
 			</PrgInfo>
 		</Program>
+		<Program>
+			<Name Decoration="101B0C7B" Crc32="1236516963" LastChange="2021-08-14T11:37:08">DATALOG_REPORT</Name>
+			<PrgInfo>
+				<CodeIndex>1164</CodeIndex>
+				<Symbol>
+					<Name>DATALOG_REPORT.R_TRIG_IndoPrint</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.FB_FileOpen_Indo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.FB_FileWrite_Indo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.FB_FileClose_Indo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.FB_FileDelete_Indo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.IndoReport</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.ReportHead1_Indo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.ST1_ProductionData</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.ReportHead2_Indo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.ReportBot1_Indo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.stStation1_ProductionData</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.ReportBot2_Indo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.testbit</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_Indo1</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_Indo2</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_Indo3</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_Indo4</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.sOldDay</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_Newdaydly</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_NEWDAY</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_NewdaydlyError</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.WriteError</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_writedly</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.OpenError</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.TON_Opendly</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.BarcodeNo</Name>
+				</Symbol>
+				<Symbol>
+					<Name>DATALOG_REPORT.BarCode1</Name>
+				</Symbol>
+			</PrgInfo>
+		</Program>
 	</Programs>
 	<Symbols>
 		<Symbol>
@@ -24954,209 +24948,6 @@
 			<IGroup>16448</IGroup>
 			<IOffset>52276</IOffset>
 			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.R_TRIG_IndoPrint</Name>
-			<Type Decoration="1003051C">R_TRIG</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>32961</IOffset>
-			<BitSize>24</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.FB_FileOpen_Indo</Name>
-			<Type Decoration="100FA971">FB_FileOpen</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>33036</IOffset>
-			<BitSize>3360</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.FB_FileWrite_Indo</Name>
-			<Type Decoration="100D2C96">FB_FileWrite</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>33456</IOffset>
-			<BitSize>1312</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.FB_FileClose_Indo</Name>
-			<Type Decoration="10080312">FB_FileClose</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>33620</IOffset>
-			<BitSize>1120</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.FB_FileDelete_Indo</Name>
-			<Type Decoration="100A8317">FB_FileDelete</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>33760</IOffset>
-			<BitSize>3200</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.IndoReport</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34160</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.ReportHead1_Indo</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34162</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>DATALOG_REPORT.ST1_ProductionData</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34163</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.ReportHead2_Indo</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34164</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.ReportBot1_Indo</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34165</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>DATALOG_REPORT.stStation1_ProductionData</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34166</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.ReportBot2_Indo</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34167</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.testbit</Name>
-			<Type>BOOL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34168</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.TON_Indo1</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34172</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.TON_Indo2</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34196</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.TON_Indo3</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34220</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.TON_Indo4</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34244</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.sOldDay</Name>
-			<Type Decoration="40000051">STRING(80)</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34268</IOffset>
-			<BitSize>648</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.TON_Newdaydly</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34352</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.TON_NEWDAY</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34376</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>DATALOG_REPORT.TON_NewdaydlyError</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34400</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.WriteError</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34170</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.TON_writedly</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34424</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.OpenError</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34350</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.TON_Opendly</Name>
-			<Type Decoration="10060D24">TON</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>34448</IOffset>
-			<BitSize>192</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name>DATALOG_REPORT.BarcodeNo</Name>
-			<Type Decoration="40000051">STRING(80)</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>32231</IOffset>
-			<BitSize>648</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.BarCode1</Name>
-			<Type Decoration="40000051">STRING(80)</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>32312</IOffset>
-			<BitSize>648</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.EmptyConeWtRep</Name>
-			<Type>REAL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>32396</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name TaskPrio="1">DATALOG_REPORT.EmptyConeWtRep1</Name>
-			<Type>REAL</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>32400</IOffset>
-			<BitSize>32</BitSize>
 		</Symbol>
 		<Symbol>
 			<Name TaskPrio="1">Date_Time.ReportPath</Name>
@@ -28657,2862 +28448,193 @@
 			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_COMPORT</Name>
-			<Type>UDINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.R_TRIG_IndoPrint</Name>
+			<Type Decoration="1003051C">R_TRIG</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>804</IOffset>
-			<BitSize>32</BitSize>
+			<IOffset>32961</IOffset>
+			<BitSize>24</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_CMD</Name>
-			<Type>UDINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.FB_FileOpen_Indo</Name>
+			<Type Decoration="100FA971">FB_FileOpen</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>808</IOffset>
-			<BitSize>32</BitSize>
+			<IOffset>33036</IOffset>
+			<BitSize>3360</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DATAPOINTER</Name>
-			<Type>UDINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.FB_FileWrite_Indo</Name>
+			<Type Decoration="100D2C96">FB_FileWrite</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>812</IOffset>
-			<BitSize>32</BitSize>
+			<IOffset>33456</IOffset>
+			<BitSize>1312</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_CFGSTLEN</Name>
-			<Type>UDINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.FB_FileClose_Indo</Name>
+			<Type Decoration="10080312">FB_FileClose</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>816</IOffset>
-			<BitSize>32</BitSize>
+			<IOffset>33620</IOffset>
+			<BitSize>1120</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_CFGSTVER</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[unknown configuration structure version]]>
-			</Comment>
+			<Name TaskPrio="1">DATALOG_REPORT.FB_FileDelete_Indo</Name>
+			<Type Decoration="100A8317">FB_FileDelete</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>820</IOffset>
-			<BitSize>32</BitSize>
+			<IOffset>33760</IOffset>
+			<BitSize>3200</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_TL</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[invalid TraceLevel]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>824</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_BAUDRATE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>828</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_PARITY</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>832</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DATABITS</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>836</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_STOPBITS</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>840</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DTR_CTRL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>844</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_RTS_CTRL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>848</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_CTS_OUTCTRL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>852</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DSR_OUTCTRL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>856</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DSR_SENS</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Specific Error Codes]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>860</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_NOT_INIT</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>864</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_RD_BUFFER_OVERRUN</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>868</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_PORT_CONNECTED</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[port already opened by the server]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>872</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_PORT_NOT_CONNECTED</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[port not yet opened by the server]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>876</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_RD_THREAD_TIMEOUT</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>880</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_WR_THREAD_TIMEOUT</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>884</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_RD_FAILURE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>888</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_WR_FAILURE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[error codes out of Plc library]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>892</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_SERVER_INCOMPATIBLE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[server version incompatible]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>896</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="2">.DF_LEFT</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>900</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DF_RIGHT</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>902</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="2">.DF_HCENTER</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>904</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DF_TOP</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>906</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DF_BOTTOM</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>908</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="2">.DF_VCENTER</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>910</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FF_ITALIC</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>912</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FF_BOLD</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>914</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FF_UNDERLINED</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>916</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FF_STRIKEDOUT</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>918</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FF_SOLID</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>920</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FF_NULL</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>922</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.LF_SOLID</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>924</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.LF_NULL</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>926</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DC_WHITE</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>928</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DC_BLACK</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>932</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.NUMOFUSERS</Name>
-			<Type>INT</Type>
-			<Comment>
-				<![CDATA[0..7]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>936</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_AMSPORT_MASTER</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>938</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_MAX_SLAVES</Name>
-			<Type>UINT</Type>
-			<Comment>
-				<![CDATA[ethercat commands]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>940</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_APRD</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>942</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_APWR</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>943</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_APRW</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>944</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_FPRD</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>945</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_FPWR</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>946</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_FPRW</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>947</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_BRD</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>948</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_BWR</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>949</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_BRW</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>950</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_LRD</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>951</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_LWR</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>952</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_LRW</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[device states]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>953</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_MASK</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>954</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_INIT</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>955</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_PREOP</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>956</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_BOOTSTRAP</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>957</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_SAFEOP</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>958</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_OP</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>959</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_ERROR</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>960</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_INVALID_VPRS</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>961</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_INITCMD_ERROR</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[link states]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>962</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_OK</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>963</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_NOT_PRESENT</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>964</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_LINK_WITHOUT_COMM</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>965</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_MISSING_LINK</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>966</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_ADDITIONAL_LINK</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>967</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_PORT_A</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>968</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_PORT_B</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>969</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_PORT_C</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>970</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_PORT_D</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>971</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_STATEMACHINE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>972</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_CURSTATE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>976</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_REQSTATE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>980</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_INTERNALSTATE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>984</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_COUNT_SLAVE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>988</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_COUNT_SLAVE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>992</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_COUNT_PORT</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>996</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_COUNT_ROUTER</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1000</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_ADDRESSES</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1004</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SENDCMD</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1008</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_SLAVE_STATEMACHINE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1012</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_IDENTITY</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1016</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_CRC</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1020</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_ABNORMAL_STATE_CHANGES</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1024</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_SETPRESENT_CHANGES</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1028</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_DEVICESTATE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1032</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_COUNT_FRAME</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[SoE IG/IO]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1036</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_ECAT_SOE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1040</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_ECAT_SOE_LASTERROR</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1044</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_DATASTATE</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1048</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_NAME</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1049</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_ATTRIBUTE</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1050</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_UNIT</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1051</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_MIN</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1052</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_MAX</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1053</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_VALUE</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1054</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_DEFAULT</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[FoE IG/IO]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1055</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FOPENREAD</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1056</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FOPENWRITE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1060</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FCLOSE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1064</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FREAD</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1068</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FWRITE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1072</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_PROGRESSINFO</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1076</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_LASTERROR</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[CoE IG/IO]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1080</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_CANOPEN_SDO</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1084</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_CANOPEN_SDO_LASTERROR</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[FoE mailbox protocol error codes]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1088</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_NOTDEFINED</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1092</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_NOTFOUND</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1096</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_ACCESS</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1100</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_DISKFULL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1104</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_ILLEAGAL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1108</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_PACKENO</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1112</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_EXISTS</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1116</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_NOUSER</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1120</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_BOOTSTRAPONLY</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1124</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_NOTINBOOTSTRAP</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1128</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_INVALIDPASSWORD</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[CoE mailbox protocol error codes]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1132</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TOGGLE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Toggle bit not alternated.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1136</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TIMEOUT</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[SDO protocol timed out.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1140</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_CCS_SCS</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Client/server command specifier not valid or unknown.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1144</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_BLK_SIZE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Invalid block size (block mode only).]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1148</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_SEQNO</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Invalid sequence number (block mode only).]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1152</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_CRC</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[CRC error (block mode only).]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1156</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_MEMORY</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Out of memory.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1160</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_ACCESS</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Unsupported access to an object.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1164</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_WRITEONLY</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Attempt to read a write only object.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1168</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_READONLY</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Attempt to write a read only object.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1172</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_INDEX</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Object does not exist in the object dictionary.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1176</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_PDO_MAP</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Object cannot be mapped to the PDO.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1180</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_PDO_LEN</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[The number and length of the objects to be mapped would exceed PDO length.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1184</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_P_INCOMP</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[General parameter incompatibility reason.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1188</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_I_INCOMP</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[General internal incompatibility in the device.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1192</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_HARDWARE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Access failed due to an hardware error.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1196</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_SIZE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Data type does not match, length of service parameter does not match]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1200</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_SIZE1</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Data type does not match, length of service parameter too high]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1204</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_SIZE2</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Data type does not match, length of service parameter too low]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1208</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_OFFSET</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Sub-index does not exist.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1212</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_RANGE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Value range of parameter exceeded (only for write access).]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1216</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_RANGE1</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Value of parameter written too high.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1220</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_RANGE2</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Value of parameter written too low.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1224</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_MINMAX</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Maximum value is less than minimum value.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1228</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_GENERAL</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[general error]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1232</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TRANSFER</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Data cannot be transferred or stored to the application.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1236</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TRANSFER1</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Data cannot be transferred or stored to the application because of local control.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1240</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TRANSFER2</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Data cannot be transferred or stored to the application because of the present device state.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1244</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DICTIONARY</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Object dictionary dynamic generation fails or no object dictionary is present (e.g. object dictionary is generated from file and generation fails because of an file error).]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1248</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EC_DCTIME_DATEDELTA_OFFSET</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Number of past days since year zero until 1 January 2000]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1252</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ADAPTER_NAME_LENGTH</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[256 + 4 inkl. \0]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1256</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ADAPTER_DESCRIPTION_LENGTH</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[128 + 4 inkl. \0]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1260</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ADAPTER_ADDRESS_LENGTH</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Physical adapter address bytes[0..7]]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1264</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_IPHELPERAPI</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1268</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_IPHOSTNAME</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1272</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.IPHELPERAPI_ADAPTERSINFO</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1276</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.IPHELPERAPI_IPADDRBYHOSTNAME</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1280</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_LOCAL_ADAPTERS</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Max. number of local adapters]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1284</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_ADDREMOTE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1288</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_DELREMOTE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1292</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_ENUMREMOTE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1296</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_REMOTE_PCS</Name>
+			<Name TaskPrio="1">DATALOG_REPORT.IndoReport</Name>
 			<Type>INT</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1300</IOffset>
+			<IOffset>34160</IOffset>
 			<BitSize>16</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ROUTE_FLAG_TEMPORARY</Name>
-			<Type>DWORD</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.ReportHead1_Indo</Name>
+			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1304</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ROUTE_FLAG_DYNAMIC</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[hostname instead OF IP address]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1308</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ROUTE_FLAG_NOOVERRIDE</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1312</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ROUTE_NAME_LEN</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[max. TcRouter length]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1302</IOffset>
+			<IOffset>34162</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ROUTE_ADDR_LEN</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[max. TcRouter length]]>
-			</Comment>
+			<Name>DATALOG_REPORT.ST1_ProductionData</Name>
+			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1303</IOffset>
+			<IOffset>34163</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MIN_ROUTE_TRANSPORT</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[eRouteTransport_None]]>
-			</Comment>
+			<Name TaskPrio="1">DATALOG_REPORT.ReportHead2_Indo</Name>
+			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1316</IOffset>
+			<IOffset>34164</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ROUTE_TRANSPORT</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[eRouteTransport_SOAP]]>
-			</Comment>
+			<Name TaskPrio="1">DATALOG_REPORT.ReportBot1_Indo</Name>
+			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1317</IOffset>
+			<IOffset>34165</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FFILEFIND</Name>
-			<Type>UDINT</Type>
+			<Name>DATALOG_REPORT.stStation1_ProductionData</Name>
+			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1320</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.HKEY_MAX_BINARY_DATA_SIZE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[Ams logger constants]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1324</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSLOGGER_IGR_GENERAL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1328</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSLOGGER_IOF_MODE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1332</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_AMSLOGGER</Name>
-			<Type>UINT</Type>
-			<Comment>
-				<![CDATA[Format string constants]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1318</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FORMAT_MAX_ARGS</Name>
-			<Type>INT</Type>
-			<Comment>
-				<![CDATA[max number of format arguments in FB_FormatString]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1336</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_EXP_IS_NAN</Name>
-			<Type>INT</Type>
-			<Comment>
-				<![CDATA[the value is #NAN or -#NAN]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1338</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_EXP_IS_INF</Name>
-			<Type>INT</Type>
-			<Comment>
-				<![CDATA[the value is #INF or -#INF]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1340</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_MAX_DIGITS</Name>
-			<Type>INT</Type>
-			<Comment>
-				<![CDATA[Note: double precision floats have max. 15 significant digits]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1342</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_MAX_PRECISION</Name>
-			<Type>INT</Type>
-			<Comment>
-				<![CDATA[1e-307]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1344</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_MIN_PRECISION</Name>
-			<Type>INT</Type>
-			<Comment>
-				<![CDATA[FB_FormatString function block error codes:
-	Error code  == argument number (1..10)  + error code]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1346</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_NOERROR</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[No error]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1348</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_PERCENTSIGNPOSITION</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Percent sign (%) at invalid position]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1352</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_ASTERISKPOSITION</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Asterisk parameter at invalid position]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1356</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_WIDTHVALUE</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Invalid width field value]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1360</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_PRECISIONVALUE</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[invalid precision field value]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1364</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_FLAGPOSITION</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[one of the flags at invalid position]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1368</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_WIDTHPRECISIONVALPOS</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[the width or precision field  value at invalid position]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1372</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_PRECISIONDOTPOSITION</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[dot "." sign of precision field at invalid  position]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1376</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_TYPEFIELDVALUE</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[invalid (unsupported) type field value]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1380</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_ARGTYPEINVALID</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Different type field and argument parameter]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1384</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_UNACCEPTEDPARAMETER</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Invalid format string parameters]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1388</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_INSUFFICIENTARGS</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[To much arguments in format string]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1392</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_DESTBUFFOVERFLOW</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Destination string buffer overflow (formatted string is to long )]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1396</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMTIME_DATEDELTA_OFFSET</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[number of past days since year zero until 1 January 1601]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1400</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MIN_SBCS_TABLE</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1404</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_SBCS_TABLE</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1406</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DATE_AND_TIME_SECPERDAY</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Number of seconds per day]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1408</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DATE_AND_TIME_SECPERWEEK</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Number of seconds per week]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1412</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_BASIC_HASHTABLE_CHAINSIZE</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Hash table chain size]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1416</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DBG_OUTPUT_NONE</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Disabled (no debug oputput)]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1428</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DBG_OUTPUT_LOG</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Enabled, TwinCAT System Manager Log]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1432</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DBG_OUTPUT_FILE</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[Enabled, text file]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1436</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DBG_OUTPUT_VISU</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[reserved]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1440</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DEFAULT_CSV_FIELD_DOUBLE_QUOTE</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[double-quote (") => used to enclose special characters like line breaks, double-quotes, commas...]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1422</IOffset>
+			<IOffset>34166</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DEFAULT_CSV_RECORD_SEP_CR</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[cariage return => record separator (first character)]]>
-			</Comment>
+			<Name TaskPrio="1">DATALOG_REPORT.ReportBot2_Indo</Name>
+			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1423</IOffset>
+			<IOffset>34167</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DEFAULT_CSV_RECORD_SEP_LF</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[line feed => record separator (second character)]]>
-			</Comment>
+			<Name TaskPrio="1">DATALOG_REPORT.testbit</Name>
+			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1444</IOffset>
+			<IOffset>34168</IOffset>
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_LOGGER</Name>
-			<Type>UINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.TON_Indo1</Name>
+			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1446</IOffset>
-			<BitSize>16</BitSize>
+			<IOffset>34172</IOffset>
+			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_EVENTLOG</Name>
-			<Type>UINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.TON_Indo2</Name>
+			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1448</IOffset>
-			<BitSize>16</BitSize>
+			<IOffset>34196</IOffset>
+			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_RTIME</Name>
-			<Type>UINT</Type>
-			<Comment>
-				<![CDATA[R0 Real time]]>
-			</Comment>
+			<Name TaskPrio="1">DATALOG_REPORT.TON_Indo3</Name>
+			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1450</IOffset>
-			<BitSize>16</BitSize>
+			<IOffset>34220</IOffset>
+			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_IO</Name>
-			<Type>UINT</Type>
-			<Comment>
-				<![CDATA[I/O Driver]]>
-			</Comment>
+			<Name TaskPrio="1">DATALOG_REPORT.TON_Indo4</Name>
+			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1452</IOffset>
-			<BitSize>16</BitSize>
+			<IOffset>34244</IOffset>
+			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_NC</Name>
-			<Type>UINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.sOldDay</Name>
+			<Type Decoration="40000051">STRING(80)</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1454</IOffset>
-			<BitSize>16</BitSize>
+			<IOffset>34268</IOffset>
+			<BitSize>648</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_NCSAF</Name>
-			<Type>UINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.TON_Newdaydly</Name>
+			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1456</IOffset>
-			<BitSize>16</BitSize>
+			<IOffset>34352</IOffset>
+			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_NCSVB</Name>
-			<Type>UINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.TON_NEWDAY</Name>
+			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1458</IOffset>
-			<BitSize>16</BitSize>
+			<IOffset>34376</IOffset>
+			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_ISG</Name>
-			<Type>UINT</Type>
+			<Name>DATALOG_REPORT.TON_NewdaydlyError</Name>
+			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1460</IOffset>
-			<BitSize>16</BitSize>
+			<IOffset>34400</IOffset>
+			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_CNC</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1462</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_LINE</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1464</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1466</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC_RTS1</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1468</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC_RTS2</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1470</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC_RTS3</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1472</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC_RTS4</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1474</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_CAM</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1476</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_CAMTOOL</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1478</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R3_SYSSERV</Name>
-			<Type>UINT</Type>
-			<Comment>
-				<![CDATA[System Service]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1480</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R3_SCOPESERVER</Name>
-			<Type>UINT</Type>
-			<Comment>
-				<![CDATA[Ads states]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1482</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_INVALID</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1484</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_IDLE</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1486</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_RESET</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1488</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_INIT</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1490</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_START</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1492</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_RUN</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1494</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_STOP</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1496</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_SAVECFG</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1498</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_LOADCFG</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1500</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_POWERFAILURE</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1502</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_POWERGOOD</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1504</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_ERROR</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1506</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_SHUTDOWN</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1508</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_SUSPEND</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1510</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_RESUME</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1512</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_CONFIG</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1514</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_RECONFIG</Name>
-			<Type>UINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1516</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_MAXSTATES</Name>
-			<Type>UINT</Type>
-			<Comment>
-				<![CDATA[max. number of available ads states]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1518</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYMTAB</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1520</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYMNAME</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1524</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYMVAL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1528</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_HNDBYNAME</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1532</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_VALBYNAME</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1536</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_VALBYHND</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1540</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_RELEASEHND</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1544</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_INFOBYNAME</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1548</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_VERSION</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1552</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_INFOBYNAMEEX</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1556</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_DOWNLOAD</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1560</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_UPLOAD</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1564</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_UPLOADINFO</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1568</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYMNOTE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[notification OF named handle]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1572</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWIB</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[read/write input BYTE(S)]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1576</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWIX</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[read/write input bit]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1580</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RISIZE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[read input size (in BYTE)]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1584</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWOB</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[read/write output BYTE(S)]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1588</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWOX</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[read/write output bit]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1592</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_ROSIZE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[read/write output bit]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1596</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_CLEARI</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[write inputs TO null]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1600</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_CLEARO</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[write outputs TO null]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1604</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWIOB</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[read input AND write output BYTE(S)  ADS-READWRITE]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1608</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_DEVICE_DATA</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[state, name, etc...]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1612</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIOFFS_DEVDATA_ADSSTATE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[ads state OF device]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1616</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSIOFFS_DEVDATA_DEVSTATE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[device state]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1620</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_OPENCREATE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1624</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_OPENREAD</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1628</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_OPENWRITE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1632</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_CREATEFILE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1636</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_CLOSEHANDLE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1640</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FOPEN</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1644</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FCLOSE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1648</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FREAD</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1652</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FWRITE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1656</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FSEEK</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1660</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FTELL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1664</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FGETS</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1668</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FPUTS</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1672</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FSCANF</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1676</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FPRINTF</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1680</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FEOF</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1684</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FDELETE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1688</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FRENAME</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1692</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_MKDIR</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1696</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_RMDIR</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1700</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_REG_HKEYLOCALMACHINE</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1704</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_SENDEMAIL</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1708</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_TIMESERVICES</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1712</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_STARTPROCESS</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1716</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_CHANGENETID</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[System service index offsets: SYSTEMSERVICE_TIMESERVICES]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1720</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_DATEANDTIME</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1724</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_SYSTEMTIMES</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1728</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_RTCTIMEDIFF</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1732</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_ADJUSTTIMETORTC</Name>
-			<Type>UDINT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1736</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_TIMEZONINFORMATION</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[ADSLOGxxx log control mask types]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1740</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_HINT</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1744</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_WARN</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1748</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_ERROR</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1752</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_LOG</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1756</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_MSGBOX</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1760</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_RESOURCE</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1764</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_STRING</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[boot data constants (-> SYSTEMINFOTYPE.bootDataFlags)]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1768</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_RETAIN_LOADED</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1445</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_RETAIN_INVALID</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1772</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_RETAIN_REQUESTED</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1773</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_PERSISTENT_LOADED</Name>
-			<Type>BYTE</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1774</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_PERSISTENT_INVALID</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[system state constants (-> SYSTEMINFOTYPE.systemStateFlags)]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1775</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSTATEFLAGS_BSOD</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[blue screen of death]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1776</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSTATEFLAGS_RTVIOLATION</Name>
-			<Type>BYTE</Type>
-			<Comment>
-				<![CDATA[realtime violation - latency time]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1777</IOffset>
-			<BitSize>8</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODEREAD</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA["r": Opens for reading. If the file does not exist or cannot be found, the call fails.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1780</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODEWRITE</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA["w": Opens an empty file for writing. If the given file exists, its contents are destroyed.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1784</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="1">.FOPEN_MODEAPPEND</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA["a": Opens for writing at the end of the file (appending) without removing the EOF marker before writing new data to the file; creates the file first if it doesn’t exist.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1788</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODEPLUS</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA["+": Opens for reading and writing]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1792</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODEBINARY</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA["b": Open in binary (untranslated) mode.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1796</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODETEXT</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA["t": Open in text (translated) mode.]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1800</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FILE_OPENCREATE</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1804</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FILE_OPENREAD</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1808</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FILE_OPENWRITE</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1812</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FILE_READ</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1816</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FILE_WRITE</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1820</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FILE_SEEKBEGIN</Name>
-			<Type>DWORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>1824</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.FILE_SEEKEND</Name>
-			<Type>DWORD</Type>
-			<Comment>
-				<![CDATA[END OF OBSOLETE FILE OPERATION CONSTANTS]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1828</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_PRIOCLASS</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[event class/priority	through textformatter]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1778</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_FMTSELF</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[format in message]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1832</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_LOG</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[write to log file]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1834</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_MSGBOX</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[display message box]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1836</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_SRCID</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[src id instead of source name]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1838</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_AUTOFMTALL</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[event states]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1840</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_INVALID</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[event object is not initialized]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1842</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_SIGNALED</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[event object is in a signaled state]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1844</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_RESET</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[event object is in a reset state]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1846</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_CONFIRMED</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[event object is confirmed but not reset]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1848</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_RESETCON</Name>
-			<Type>WORD</Type>
-			<Comment>
-				<![CDATA[event object is confirmed and reset]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>1850</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENT_SRCNAMESIZE</Name>
+			<Name TaskPrio="1">DATALOG_REPORT.WriteError</Name>
 			<Type>INT</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1852</IOffset>
+			<IOffset>34170</IOffset>
 			<BitSize>16</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENT_FMTPRGSIZE</Name>
+			<Name TaskPrio="1">DATALOG_REPORT.TON_writedly</Name>
+			<Type Decoration="10060D24">TON</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>34424</IOffset>
+			<BitSize>192</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">DATALOG_REPORT.OpenError</Name>
 			<Type>INT</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1854</IOffset>
+			<IOffset>34350</IOffset>
 			<BitSize>16</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.PI</Name>
-			<Type>LREAL</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.TON_Opendly</Name>
+			<Type Decoration="10060D24">TON</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1856</IOffset>
-			<BitSize>64</BitSize>
+			<IOffset>34448</IOffset>
+			<BitSize>192</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.DEFAULT_ADS_TIMEOUT</Name>
-			<Type>TIME</Type>
+			<Name>DATALOG_REPORT.BarcodeNo</Name>
+			<Type Decoration="40000051">STRING(80)</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1864</IOffset>
-			<BitSize>32</BitSize>
+			<IOffset>32231</IOffset>
+			<BitSize>648</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MAX_STRING_LENGTH</Name>
-			<Type>UDINT</Type>
+			<Name TaskPrio="1">DATALOG_REPORT.BarCode1</Name>
+			<Type Decoration="40000051">STRING(80)</Type>
 			<IGroup>16448</IGroup>
-			<IOffset>1868</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="1">.MAX_TELEGRAM_IDX</Name>
-			<Type>INT</Type>
-			<Comment>
-				<![CDATA[COM-Port FIFO Maxindex]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>2004</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.COM_BUFFER_MAXIDX</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>2006</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="1">.MODBUSBUFFERSIZE_DEBUGBUFFER</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>2008</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MODBUSRTU_OUTPUTACCESS_OFFSET</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>2010</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.MODBUSRTU_MEMORYACCESS_OFFSET</Name>
-			<Type>WORD</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>2012</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.iLength</Name>
-			<Type>INT</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>2014</IOffset>
-			<BitSize>16</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.IOADS_IGR_IODEVICESTATE_BASE</Name>
-			<Type>UDINT</Type>
-			<Comment>
-				<![CDATA[plus DeviceID of CX1100]]>
-			</Comment>
-			<IGroup>16448</IGroup>
-			<IOffset>2016</IOffset>
-			<BitSize>32</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.VERSION_COMLIB</Name>
-			<Type Decoration="40000015">STRING(20)</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>2020</IOffset>
-			<BitSize>168</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EMPTY_GUID_STRING</Name>
-			<Type Decoration="40000025">STRING(36)</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>2122</IOffset>
-			<BitSize>296</BitSize>
-		</Symbol>
-		<Symbol>
-			<Name Constant="1" IsDefinedInLibrary="1">.EMPTY_GUID_REGSTRING</Name>
-			<Type Decoration="40000027">STRING(38)</Type>
-			<IGroup>16448</IGroup>
-			<IOffset>2159</IOffset>
-			<BitSize>312</BitSize>
+			<IOffset>32312</IOffset>
+			<BitSize>648</BitSize>
 		</Symbol>
 		<Symbol>
 			<Name TaskPrio="1">.FB_DateTime_1</Name>
@@ -36940,7 +34062,7 @@
 			<BitSize>8</BitSize>
 		</Symbol>
 		<Symbol>
-			<Name TaskPrio="7">.bErrorResethmi</Name>
+			<Name TaskPrio="6">.bErrorResethmi</Name>
 			<Type>BOOL</Type>
 			<IGroup>16448</IGroup>
 			<IOffset>53135</IOffset>
@@ -37585,6 +34707,20 @@
 					</Value>
 				</Property>
 			</Properties>
+		</Symbol>
+		<Symbol>
+			<Name TaskPrio="1">.EmptyConeWtRep</Name>
+			<Type>REAL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>53932</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name>.EmptyConeWtRep1</Name>
+			<Type>REAL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>53936</IOffset>
+			<BitSize>32</BitSize>
 		</Symbol>
 		<Symbol>
 			<Name TaskPrio="7">.SAVE</Name>
@@ -41094,6 +38230,2864 @@
 			<IGroup>16448</IGroup>
 			<IOffset>92892</IOffset>
 			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_COMPORT</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>804</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_CMD</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>808</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DATAPOINTER</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>812</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_CFGSTLEN</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>816</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_CFGSTVER</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[unknown configuration structure version]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>820</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_TL</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[invalid TraceLevel]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>824</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_BAUDRATE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>828</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_PARITY</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>832</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DATABITS</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>836</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_STOPBITS</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>840</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DTR_CTRL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>844</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_RTS_CTRL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>848</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_CTS_OUTCTRL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>852</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DSR_OUTCTRL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>856</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_INVALID_DSR_SENS</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Specific Error Codes]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>860</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_NOT_INIT</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>864</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_RD_BUFFER_OVERRUN</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>868</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_PORT_CONNECTED</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[port already opened by the server]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>872</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_PORT_NOT_CONNECTED</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[port not yet opened by the server]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>876</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_RD_THREAD_TIMEOUT</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>880</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_WR_THREAD_TIMEOUT</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>884</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_RD_FAILURE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>888</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_WR_FAILURE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[error codes out of Plc library]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>892</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COMERRORADS_SERVER_INCOMPATIBLE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[server version incompatible]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>896</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="2">.DF_LEFT</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>900</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DF_RIGHT</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>902</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="2">.DF_HCENTER</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>904</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DF_TOP</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>906</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DF_BOTTOM</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>908</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="2">.DF_VCENTER</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>910</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FF_ITALIC</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>912</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FF_BOLD</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>914</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FF_UNDERLINED</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>916</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FF_STRIKEDOUT</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>918</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FF_SOLID</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>920</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FF_NULL</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>922</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.LF_SOLID</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>924</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.LF_NULL</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>926</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DC_WHITE</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>928</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DC_BLACK</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>932</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.NUMOFUSERS</Name>
+			<Type>INT</Type>
+			<Comment>
+				<![CDATA[0..7]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>936</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_AMSPORT_MASTER</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>938</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_MAX_SLAVES</Name>
+			<Type>UINT</Type>
+			<Comment>
+				<![CDATA[ethercat commands]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>940</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_APRD</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>942</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_APWR</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>943</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_APRW</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>944</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_FPRD</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>945</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_FPWR</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>946</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_FPRW</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>947</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_BRD</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>948</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_BWR</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>949</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_BRW</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>950</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_LRD</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>951</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_LWR</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>952</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_CMD_TYPE_LRW</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[device states]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>953</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_MASK</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>954</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_INIT</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>955</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_PREOP</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>956</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_BOOTSTRAP</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>957</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_SAFEOP</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>958</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_OP</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>959</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_ERROR</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>960</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_INVALID_VPRS</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>961</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DEVICE_STATE_INITCMD_ERROR</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[link states]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>962</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_OK</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>963</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_NOT_PRESENT</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>964</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_LINK_WITHOUT_COMM</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>965</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_MISSING_LINK</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>966</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_ADDITIONAL_LINK</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>967</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_PORT_A</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>968</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_PORT_B</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>969</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_PORT_C</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>970</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_LINK_STATE_PORT_D</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>971</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_STATEMACHINE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>972</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_CURSTATE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>976</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_REQSTATE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>980</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_INTERNALSTATE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>984</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_COUNT_SLAVE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>988</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_COUNT_SLAVE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>992</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_COUNT_PORT</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>996</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IOFFS_MASTER_COUNT_ROUTER</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1000</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_ADDRESSES</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1004</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SENDCMD</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1008</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_SLAVE_STATEMACHINE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1012</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_IDENTITY</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1016</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_CRC</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1020</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_ABNORMAL_STATE_CHANGES</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1024</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_SLAVE_SETPRESENT_CHANGES</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1028</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_DEVICESTATE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1032</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_MASTER_COUNT_FRAME</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[SoE IG/IO]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1036</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_ECAT_SOE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1040</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_ECAT_SOE_LASTERROR</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1044</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_DATASTATE</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1048</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_NAME</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1049</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_ATTRIBUTE</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1050</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_UNIT</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1051</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_MIN</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1052</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_MAX</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1053</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_VALUE</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1054</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_SOE_ELEMENT_DEFAULT</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[FoE IG/IO]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1055</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FOPENREAD</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1056</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FOPENWRITE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1060</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FCLOSE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1064</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FREAD</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1068</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_FWRITE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1072</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_PROGRESSINFO</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1076</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_FOE_LASTERROR</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[CoE IG/IO]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1080</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_CANOPEN_SDO</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1084</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_ADS_IGRP_CANOPEN_SDO_LASTERROR</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[FoE mailbox protocol error codes]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1088</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_NOTDEFINED</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1092</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_NOTFOUND</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1096</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_ACCESS</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1100</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_DISKFULL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1104</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_ILLEAGAL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1108</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_PACKENO</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1112</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_EXISTS</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1116</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_NOUSER</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1120</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_BOOTSTRAPONLY</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1124</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_NOTINBOOTSTRAP</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1128</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_FOE_PROTERR_INVALIDPASSWORD</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[CoE mailbox protocol error codes]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1132</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TOGGLE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Toggle bit not alternated.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1136</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TIMEOUT</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[SDO protocol timed out.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1140</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_CCS_SCS</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Client/server command specifier not valid or unknown.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1144</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_BLK_SIZE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Invalid block size (block mode only).]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1148</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_SEQNO</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Invalid sequence number (block mode only).]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1152</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_CRC</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[CRC error (block mode only).]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1156</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_MEMORY</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Out of memory.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1160</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_ACCESS</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Unsupported access to an object.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1164</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_WRITEONLY</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Attempt to read a write only object.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1168</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_READONLY</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Attempt to write a read only object.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1172</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_INDEX</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Object does not exist in the object dictionary.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1176</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_PDO_MAP</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Object cannot be mapped to the PDO.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1180</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_PDO_LEN</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[The number and length of the objects to be mapped would exceed PDO length.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1184</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_P_INCOMP</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[General parameter incompatibility reason.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1188</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_I_INCOMP</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[General internal incompatibility in the device.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1192</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_HARDWARE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Access failed due to an hardware error.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1196</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_SIZE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Data type does not match, length of service parameter does not match]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1200</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_SIZE1</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Data type does not match, length of service parameter too high]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1204</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_SIZE2</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Data type does not match, length of service parameter too low]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1208</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_OFFSET</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Sub-index does not exist.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1212</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_RANGE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Value range of parameter exceeded (only for write access).]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1216</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_RANGE1</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Value of parameter written too high.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1220</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DATA_RANGE2</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Value of parameter written too low.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1224</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_MINMAX</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Maximum value is less than minimum value.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1228</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_GENERAL</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[general error]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1232</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TRANSFER</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Data cannot be transferred or stored to the application.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1236</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TRANSFER1</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Data cannot be transferred or stored to the application because of local control.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1240</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_TRANSFER2</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Data cannot be transferred or stored to the application because of the present device state.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1244</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_COE_PROTERR_DICTIONARY</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Object dictionary dynamic generation fails or no object dictionary is present (e.g. object dictionary is generated from file and generation fails because of an file error).]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1248</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EC_DCTIME_DATEDELTA_OFFSET</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Number of past days since year zero until 1 January 2000]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1252</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ADAPTER_NAME_LENGTH</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[256 + 4 inkl. \0]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1256</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ADAPTER_DESCRIPTION_LENGTH</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[128 + 4 inkl. \0]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1260</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ADAPTER_ADDRESS_LENGTH</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Physical adapter address bytes[0..7]]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1264</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_IPHELPERAPI</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1268</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_IPHOSTNAME</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1272</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.IPHELPERAPI_ADAPTERSINFO</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1276</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.IPHELPERAPI_IPADDRBYHOSTNAME</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1280</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_LOCAL_ADAPTERS</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Max. number of local adapters]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1284</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_ADDREMOTE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1288</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_DELREMOTE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1292</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_ENUMREMOTE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1296</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_REMOTE_PCS</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1300</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ROUTE_FLAG_TEMPORARY</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1304</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ROUTE_FLAG_DYNAMIC</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[hostname instead OF IP address]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1308</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ROUTE_FLAG_NOOVERRIDE</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1312</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ROUTE_NAME_LEN</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[max. TcRouter length]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1302</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ROUTE_ADDR_LEN</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[max. TcRouter length]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1303</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MIN_ROUTE_TRANSPORT</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[eRouteTransport_None]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1316</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_ROUTE_TRANSPORT</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[eRouteTransport_SOAP]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1317</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FFILEFIND</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1320</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.HKEY_MAX_BINARY_DATA_SIZE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[Ams logger constants]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1324</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSLOGGER_IGR_GENERAL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1328</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSLOGGER_IOF_MODE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1332</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_AMSLOGGER</Name>
+			<Type>UINT</Type>
+			<Comment>
+				<![CDATA[Format string constants]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1318</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FORMAT_MAX_ARGS</Name>
+			<Type>INT</Type>
+			<Comment>
+				<![CDATA[max number of format arguments in FB_FormatString]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1336</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_EXP_IS_NAN</Name>
+			<Type>INT</Type>
+			<Comment>
+				<![CDATA[the value is #NAN or -#NAN]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1338</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_EXP_IS_INF</Name>
+			<Type>INT</Type>
+			<Comment>
+				<![CDATA[the value is #INF or -#INF]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1340</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_MAX_DIGITS</Name>
+			<Type>INT</Type>
+			<Comment>
+				<![CDATA[Note: double precision floats have max. 15 significant digits]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1342</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_MAX_PRECISION</Name>
+			<Type>INT</Type>
+			<Comment>
+				<![CDATA[1e-307]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1344</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FLOATREC_MIN_PRECISION</Name>
+			<Type>INT</Type>
+			<Comment>
+				<![CDATA[FB_FormatString function block error codes:
+	Error code  == argument number (1..10)  + error code]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1346</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_NOERROR</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[No error]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1348</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_PERCENTSIGNPOSITION</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Percent sign (%) at invalid position]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1352</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_ASTERISKPOSITION</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Asterisk parameter at invalid position]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1356</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_WIDTHVALUE</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Invalid width field value]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1360</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_PRECISIONVALUE</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[invalid precision field value]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1364</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_FLAGPOSITION</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[one of the flags at invalid position]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1368</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_WIDTHPRECISIONVALPOS</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[the width or precision field  value at invalid position]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1372</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_PRECISIONDOTPOSITION</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[dot "." sign of precision field at invalid  position]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1376</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_TYPEFIELDVALUE</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[invalid (unsupported) type field value]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1380</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_ARGTYPEINVALID</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Different type field and argument parameter]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1384</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_UNACCEPTEDPARAMETER</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Invalid format string parameters]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1388</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_INSUFFICIENTARGS</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[To much arguments in format string]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1392</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FMTERR_DESTBUFFOVERFLOW</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Destination string buffer overflow (formatted string is to long )]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1396</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMTIME_DATEDELTA_OFFSET</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[number of past days since year zero until 1 January 1601]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1400</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MIN_SBCS_TABLE</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1404</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_SBCS_TABLE</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1406</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DATE_AND_TIME_SECPERDAY</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Number of seconds per day]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1408</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DATE_AND_TIME_SECPERWEEK</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Number of seconds per week]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1412</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_BASIC_HASHTABLE_CHAINSIZE</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Hash table chain size]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1416</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DBG_OUTPUT_NONE</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Disabled (no debug oputput)]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1428</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DBG_OUTPUT_LOG</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Enabled, TwinCAT System Manager Log]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1432</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DBG_OUTPUT_FILE</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[Enabled, text file]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1436</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DBG_OUTPUT_VISU</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[reserved]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1440</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DEFAULT_CSV_FIELD_DOUBLE_QUOTE</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[double-quote (") => used to enclose special characters like line breaks, double-quotes, commas...]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1422</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DEFAULT_CSV_RECORD_SEP_CR</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[cariage return => record separator (first character)]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1423</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DEFAULT_CSV_RECORD_SEP_LF</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[line feed => record separator (second character)]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1444</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_LOGGER</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1446</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_EVENTLOG</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1448</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_RTIME</Name>
+			<Type>UINT</Type>
+			<Comment>
+				<![CDATA[R0 Real time]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1450</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_IO</Name>
+			<Type>UINT</Type>
+			<Comment>
+				<![CDATA[I/O Driver]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1452</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_NC</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1454</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_NCSAF</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1456</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_NCSVB</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1458</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_ISG</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1460</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_CNC</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1462</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_LINE</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1464</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1466</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC_RTS1</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1468</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC_RTS2</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1470</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC_RTS3</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1472</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_PLC_RTS4</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1474</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_CAM</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1476</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R0_CAMTOOL</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1478</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R3_SYSSERV</Name>
+			<Type>UINT</Type>
+			<Comment>
+				<![CDATA[System Service]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1480</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.AMSPORT_R3_SCOPESERVER</Name>
+			<Type>UINT</Type>
+			<Comment>
+				<![CDATA[Ads states]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1482</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_INVALID</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1484</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_IDLE</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1486</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_RESET</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1488</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_INIT</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1490</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_START</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1492</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_RUN</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1494</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_STOP</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1496</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_SAVECFG</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1498</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_LOADCFG</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1500</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_POWERFAILURE</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1502</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_POWERGOOD</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1504</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_ERROR</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1506</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_SHUTDOWN</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1508</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_SUSPEND</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1510</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_RESUME</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1512</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_CONFIG</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1514</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_RECONFIG</Name>
+			<Type>UINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1516</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSSTATE_MAXSTATES</Name>
+			<Type>UINT</Type>
+			<Comment>
+				<![CDATA[max. number of available ads states]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1518</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYMTAB</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1520</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYMNAME</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1524</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYMVAL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1528</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_HNDBYNAME</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1532</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_VALBYNAME</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1536</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_VALBYHND</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1540</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_RELEASEHND</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1544</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_INFOBYNAME</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1548</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_VERSION</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1552</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_INFOBYNAMEEX</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1556</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_DOWNLOAD</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1560</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_UPLOAD</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1564</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYM_UPLOADINFO</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1568</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_SYMNOTE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[notification OF named handle]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1572</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWIB</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[read/write input BYTE(S)]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1576</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWIX</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[read/write input bit]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1580</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RISIZE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[read input size (in BYTE)]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1584</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWOB</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[read/write output BYTE(S)]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1588</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWOX</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[read/write output bit]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1592</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_ROSIZE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[read/write output bit]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1596</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_CLEARI</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[write inputs TO null]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1600</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_CLEARO</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[write outputs TO null]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1604</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_IOIMAGE_RWIOB</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[read input AND write output BYTE(S)  ADS-READWRITE]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1608</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIGRP_DEVICE_DATA</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[state, name, etc...]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1612</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIOFFS_DEVDATA_ADSSTATE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[ads state OF device]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1616</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSIOFFS_DEVDATA_DEVSTATE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[device state]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1620</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_OPENCREATE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1624</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_OPENREAD</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1628</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_OPENWRITE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1632</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_CREATEFILE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1636</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_CLOSEHANDLE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1640</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FOPEN</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1644</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FCLOSE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1648</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FREAD</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1652</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FWRITE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1656</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FSEEK</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1660</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FTELL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1664</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FGETS</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1668</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FPUTS</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1672</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FSCANF</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1676</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FPRINTF</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1680</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FEOF</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1684</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FDELETE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1688</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_FRENAME</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1692</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_MKDIR</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1696</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_RMDIR</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1700</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_REG_HKEYLOCALMACHINE</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1704</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_SENDEMAIL</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1708</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_TIMESERVICES</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1712</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_STARTPROCESS</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1716</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSERVICE_CHANGENETID</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[System service index offsets: SYSTEMSERVICE_TIMESERVICES]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1720</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_DATEANDTIME</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1724</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_SYSTEMTIMES</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1728</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_RTCTIMEDIFF</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1732</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_ADJUSTTIMETORTC</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1736</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TIMESERVICE_TIMEZONINFORMATION</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[ADSLOGxxx log control mask types]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1740</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_HINT</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1744</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_WARN</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1748</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_ERROR</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1752</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_LOG</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1756</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_MSGBOX</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1760</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_RESOURCE</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1764</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.ADSLOG_MSGTYPE_STRING</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[boot data constants (-> SYSTEMINFOTYPE.bootDataFlags)]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1768</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_RETAIN_LOADED</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1445</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_RETAIN_INVALID</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1772</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_RETAIN_REQUESTED</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1773</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_PERSISTENT_LOADED</Name>
+			<Type>BYTE</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1774</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.BOOTDATAFLAGS_PERSISTENT_INVALID</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[system state constants (-> SYSTEMINFOTYPE.systemStateFlags)]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1775</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSTATEFLAGS_BSOD</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[blue screen of death]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1776</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.SYSTEMSTATEFLAGS_RTVIOLATION</Name>
+			<Type>BYTE</Type>
+			<Comment>
+				<![CDATA[realtime violation - latency time]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1777</IOffset>
+			<BitSize>8</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODEREAD</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA["r": Opens for reading. If the file does not exist or cannot be found, the call fails.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1780</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODEWRITE</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA["w": Opens an empty file for writing. If the given file exists, its contents are destroyed.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1784</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="1">.FOPEN_MODEAPPEND</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA["a": Opens for writing at the end of the file (appending) without removing the EOF marker before writing new data to the file; creates the file first if it doesn’t exist.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1788</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODEPLUS</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA["+": Opens for reading and writing]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1792</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODEBINARY</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA["b": Open in binary (untranslated) mode.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1796</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FOPEN_MODETEXT</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA["t": Open in text (translated) mode.]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1800</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FILE_OPENCREATE</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1804</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FILE_OPENREAD</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1808</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FILE_OPENWRITE</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1812</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FILE_READ</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1816</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FILE_WRITE</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1820</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FILE_SEEKBEGIN</Name>
+			<Type>DWORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1824</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.FILE_SEEKEND</Name>
+			<Type>DWORD</Type>
+			<Comment>
+				<![CDATA[END OF OBSOLETE FILE OPERATION CONSTANTS]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1828</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_PRIOCLASS</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[event class/priority	through textformatter]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1778</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_FMTSELF</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[format in message]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1832</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_LOG</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[write to log file]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1834</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_MSGBOX</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[display message box]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1836</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_SRCID</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[src id instead of source name]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1838</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTFLAG_AUTOFMTALL</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[event states]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1840</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_INVALID</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[event object is not initialized]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1842</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_SIGNALED</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[event object is in a signaled state]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1844</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_RESET</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[event object is in a reset state]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1846</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_CONFIRMED</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[event object is confirmed but not reset]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1848</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENTSTATE_RESETCON</Name>
+			<Type>WORD</Type>
+			<Comment>
+				<![CDATA[event object is confirmed and reset]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>1850</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENT_SRCNAMESIZE</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1852</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.TCEVENT_FMTPRGSIZE</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1854</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.PI</Name>
+			<Type>LREAL</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1856</IOffset>
+			<BitSize>64</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.DEFAULT_ADS_TIMEOUT</Name>
+			<Type>TIME</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1864</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MAX_STRING_LENGTH</Name>
+			<Type>UDINT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>1868</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="1">.MAX_TELEGRAM_IDX</Name>
+			<Type>INT</Type>
+			<Comment>
+				<![CDATA[COM-Port FIFO Maxindex]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>2004</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.COM_BUFFER_MAXIDX</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>2006</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1" TaskPrio="1">.MODBUSBUFFERSIZE_DEBUGBUFFER</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>2008</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MODBUSRTU_OUTPUTACCESS_OFFSET</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>2010</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.MODBUSRTU_MEMORYACCESS_OFFSET</Name>
+			<Type>WORD</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>2012</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.iLength</Name>
+			<Type>INT</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>2014</IOffset>
+			<BitSize>16</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.IOADS_IGR_IODEVICESTATE_BASE</Name>
+			<Type>UDINT</Type>
+			<Comment>
+				<![CDATA[plus DeviceID of CX1100]]>
+			</Comment>
+			<IGroup>16448</IGroup>
+			<IOffset>2016</IOffset>
+			<BitSize>32</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.VERSION_COMLIB</Name>
+			<Type Decoration="40000015">STRING(20)</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>2020</IOffset>
+			<BitSize>168</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EMPTY_GUID_STRING</Name>
+			<Type Decoration="40000025">STRING(36)</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>2122</IOffset>
+			<BitSize>296</BitSize>
+		</Symbol>
+		<Symbol>
+			<Name Constant="1" IsDefinedInLibrary="1">.EMPTY_GUID_REGSTRING</Name>
+			<Type Decoration="40000027">STRING(38)</Type>
+			<IGroup>16448</IGroup>
+			<IOffset>2159</IOffset>
+			<BitSize>312</BitSize>
 		</Symbol>
 	</Symbols>
 	<VarConfigs>
